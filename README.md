@@ -1,5 +1,6 @@
 # Movie-Library
-A simple movie movie collection, inspired from IMDB &amp; Rotten Tomatoes.
+A simple movie movie collection where you can search about movies,actors etc.  
+and see ratings/comments from other users, inspired from IMDB &amp; Rotten Tomatoes.
   
   
 This project was developed for the "Software Develpment" course at the
